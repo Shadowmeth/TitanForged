@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1680314916 source:c:\users\shadowmeth\documents\codeblocks-workspace\hello_world\main.cpp
+	<iostream>
+	"/include/vector3d.h"
+	"/include/matrix3d.h"
+
+1680313789 c:\users\shadowmeth\documents\codeblocks-workspace\hello_world\vector3d.h
+	<iostream>
+	<cmath>
+	<iomanip>
+
+1680313954 c:\users\shadowmeth\documents\codeblocks-workspace\hello_world\matrix3d.h
+	"vector3d.h"
+
+1680315231 c:\users\shadowmeth\documents\codeblocks-workspace\hello_world\/include\vector3d.h
+	<iostream>
+	<cmath>
+	<iomanip>
+	"colors.h"
+
+1680315174 c:\users\shadowmeth\documents\codeblocks-workspace\hello_world\/include\matrix3d.h
+	"vector3d.h"
+	"colors.h"
+
+1680315231 c:\users\shadowmeth\documents\codeblocks-workspace\hello_world\\include\vector3d.h
+	<iostream>
+	<cmath>
+	<iomanip>
+	"colors.h"
+
+1680314544 c:\users\shadowmeth\documents\codeblocks-workspace\hello_world\\include\colors.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<string>
+	<type_traits>
+	<utility>
+	<windows.h>
+
+1680314916 source:c:\users\shadowmeth\documents\codeblocks-workspace\titanforged\main.cpp
+	<iostream>
+	"/include/vector3d.h"
+	"/include/matrix3d.h"
+
+1680317935 c:\users\shadowmeth\documents\codeblocks-workspace\titanforged\/include\vector3d.h
+	<iostream>
+	<cmath>
+	<iomanip>
+	"colors.h"
+
+1680314544 c:\users\shadowmeth\documents\codeblocks-workspace\titanforged\\include\colors.h
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<string>
+	<type_traits>
+	<utility>
+	<windows.h>
+
+1680315174 c:\users\shadowmeth\documents\codeblocks-workspace\titanforged\/include\matrix3d.h
+	"vector3d.h"
+	"colors.h"
+
+1680317935 c:\users\shadowmeth\documents\codeblocks-workspace\titanforged\\include\vector3d.h
+	<iostream>
+	<cmath>
+	<iomanip>
+	"colors.h"
+
